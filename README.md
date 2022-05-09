@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Possible5207
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on a Data Science Project
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Software Development
+- 💞️ I’m looking to collaborate on a Software Development Project
 - 📫 you can reach me via email: aadeyemo5207@gmail.com
 
 <!---
